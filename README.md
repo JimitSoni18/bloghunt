@@ -1,4 +1,4 @@
-# blughunt
+# bloghunt
 > stuff i have to read
 
 ---
